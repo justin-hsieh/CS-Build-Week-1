@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 django = "*"
 djangorestframework = "*"
-python-decouple = "*"
 django-rest-auth = "*"
 django-allauth = "*"
 pusher = "*"
@@ -14,7 +13,7 @@ django-cors-headers = "*"
 gunicorn = "*"
 django-heroku = "*"
 django-rest-api = "*"
-decouple = "*"
+python-decouple = "*"
 
 [dev-packages]
 
